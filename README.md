@@ -1,1 +1,1 @@
-# core
+Aquirvo Core Para script
